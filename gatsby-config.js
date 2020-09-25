@@ -24,6 +24,10 @@ module.exports = {
       {
         title: 'Adobe Creative Cloud',
         path: '/'
+      },
+      {
+        title: 'XD',
+        path: '/xd/'
       }
     ]
   },
